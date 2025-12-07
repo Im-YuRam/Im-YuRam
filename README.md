@@ -1,25 +1,39 @@
-### Hi there, I'm Matsunoki 👋
+### Hi there, I'm Imai Yuki 👋
 大学で情報系を専攻している学生です。
-主に **LLM（大規模言語モデル）のアプリケーション応用** や **バックエンド開発** に興味があり、実践的な開発を行っています。
+主に **LLM（大規模言語モデル）のアプリケーション応用** や **バックエンド開発** に興味がありますが、実務経験はないです！
 「技術を使って、身近な課題を解決すること」を大切にしています。
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Skills & Proficiency
 
-**Languages & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-</p>
+#### 💻 Development & Data Science
+| Tech | Proficiency | Note |
+| :--- | :--- | :--- |
+| <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | ★★★ | メイン言語。バックエンドから分析まで使用 |
+| <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" /> | ★★☆ | Webアプリのバックエンド構築が可能 |
+| <img src="https://img.shields.io/badge/-HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white" /> | ★★☆ | 基本的なコーディング、AIを活用した実装 |
+| <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> | ★★☆ | データベース設計・SQL操作 |
+| <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> | ★☆☆ | 環境構築・コンテナの基本操作 |
+| <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> | ★☆☆ | モデルの学習・推論の実装 |
+| <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> | ★☆☆ | 基礎的なモデル構築 |
+| <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> | ★★☆ | データ加工・分析 |
+| <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> | ★★☆ | 数値計算処理 |
+| <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" /> | ★☆☆ | 数値解析シミュレーション |
+| <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" /> | ★★☆ | ゲーム制作・インタラクティブコンテンツ作成 |
 
-**AI / ML & Tools**
-<p>
-  <img src="https://img.shields.io/badge/-Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</p>
+#### 🎨 Creative & Design
+エンジニアリングに加え、デザイン・3Dモデリング・動画編集も可能です。
+
+| Tool | Proficiency | Note |
+| :--- | :--- | :--- |
+| <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /> | ★★☆ | UI/UXデザインの作成 |
+| <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" /> | ★★☆ | 画像加工・素材作成 |
+| <img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" /> | ★★☆ | ベクター素材・アイコン作成 |
+| <img src="https://img.shields.io/badge/-Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white" /> | ★★☆ | PR動画・紹介動画の編集 |
+| <img src="https://img.shields.io/badge/-Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" /> | ★☆☆ | 3Dモデリングの基礎 |
+| <img src="https://img.shields.io/badge/-Maya-37A5CC?style=flat-square&logo=autodesk&logoColor=white" /> | ★☆☆ | 3Dアニメーション・モデリング |
+| <img src="https://img.shields.io/badge/-OBS_Studio-000000?style=flat-square&logo=obsstudio&logoColor=white" /> | ★★★ | 配信設定・録画環境構築 |
 
 ---
 
