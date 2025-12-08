@@ -22,7 +22,8 @@
 | :---: | :---: | :--- |
 | <a href="https://python.org"><img src="https://skillicons.dev/icons?i=python" /></a> | ★★★ | メイン言語。バックエンドから分析まで使用 |
 | <a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" /></a> | ★★☆ | Webアプリのバックエンド構築が可能 |
-| <a href="https://html.spec.whatwg.org/"><img src="https://skillicons.dev/icons?i=html,css" /></a> | ★★☆ | 基本的なコーディング、AIを活用した実装 |
+| <a href="https://html.spec.whatwg.org/"><img src="https://skillicons.dev/icons?i=html" /></a> | ★★☆ | 基本的なコーディング |
+| <a href="https://www.w3.org/Style/CSS/"><img src="https://skillicons.dev/icons?i=css" /></a> | ★★☆ | デザイン調整・AIを活用した実装 |
 | <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a> | ★★☆ | データベース設計・SQL操作 |
 | <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a> | ★☆☆ | 環境構築・コンテナの基本操作 |
 | <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" /></a> | ★☆☆ | モデルの学習・推論の実装 |
@@ -41,9 +42,8 @@
 | <img src="https://skillicons.dev/icons?i=ai" /> | ★★☆ | ベクター素材・アイコン作成 |
 | <img src="https://skillicons.dev/icons?i=pr" /> | ★★☆ | PR動画・紹介動画の編集 |
 | <img src="https://skillicons.dev/icons?i=blender" /> | ★☆☆ | 3Dモデリングの基礎 |
-| <img src="https://skillicons.dev/icons?i=maya" /> | ★☆☆ | 3Dアニメーション・モデリング |
-| <img src="https://skillicons.dev/icons?i=obs" /> | ★★★ | 配信設定・録画環境構築 |
-
+| <img src="maya.webp" width="48" height="48" alt="Maya" /> | ★☆☆ | 3Dアニメーション・モデリング |
+| <img src="obs.jpeg" width="48" height="48" alt="OBS Studio" /> | ★★★ | 配信設定・録画環境構築 |
 ### 🚀 Featured Project
 
 #### [TermsChecker - 利用規約「危険条項」自動検知アプリ](https://github.com/Im-YuRam/TermsChecker)
