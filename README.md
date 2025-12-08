@@ -26,6 +26,7 @@
 | <a href="https://www.w3.org/Style/CSS/"><img src="https://skillicons.dev/icons?i=css" /></a> | ★★☆☆☆ | HTMLと同じぐらいです。 |
 | <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a> | ★★☆☆☆ | 基本的なテーブルやビュー、データベースやユーザーの作成やデータの抽出はできます。 |
 | <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a> | ★☆☆☆☆ | 授業で軽く触ったぐらいです。勉強中です。 |
+| <a href="https://huggingface.co/docs/transformers/index"><img src="https://skillicons.dev/icons?i=huggingface" /></a> | ★★★☆☆ | モデルの利用・ファインチューニングする時に使っています。 |
 | <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" /></a> | ★★☆☆☆ | 主にtransformers使ってLLMチューニングする時に使ってます。 |
 | <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" /></a> | ★★☆☆☆ | Pytorchと同じく主にtransformers使ってLLMチューニングする時に使ってます。 |
 | <a href="https://pandas.pydata.org/"><img src="icon/pandas.png" width="48" height="48" alt="Pandas" /></a> | ★★☆☆☆ | データの整形とかに使ってます。 |
@@ -39,11 +40,11 @@
 | :---: | :---: | :--- |
 | <img src="https://skillicons.dev/icons?i=figma" /> | ★★★☆☆ | オートレイアウトやコンポーネントの作成ぐらいまでならできます。 |
 | <img src="https://skillicons.dev/icons?i=ps" /> | ★★☆☆☆ | 簡単な画像加工ぐらいならできます。 |
-| <img src="https://skillicons.dev/icons?i=ai" /> | ★★☆☆☆ | 基本的な作成はできますが、最近はFigmaばかり使っています |
+| <img src="https://skillicons.dev/icons?i=ai" /> | ★★☆☆☆ | 基本的な作成はできますが、最近はFigmaばかり使っています。 |
 | <img src="https://skillicons.dev/icons?i=pr" /> | ★★☆☆☆ | 素材があるのであれば動画を作ることができます。 |
-| <img src="https://skillicons.dev/icons?i=blender" /> | ★☆☆☆☆ | 授業で触ったことがあるぐらいです |
-| <img src="icon/maya.png" width="48" height="48" alt="Maya" /> | ★☆☆☆☆ | 授業で触ったことがあるぐらいです |
-| <img src="icon/obs.png" width="48" height="48" alt="OBS Studio" /> | ★★★☆☆ | YoutubeやTwitchで配信するぐらいまでならできます |
+| <img src="https://skillicons.dev/icons?i=blender" /> | ★☆☆☆☆ | 授業で触ったことがあるぐらいです。 |
+| <img src="icon/maya.png" width="48" height="48" alt="Maya" /> | ★☆☆☆☆ | 授業で触ったことがあるぐらいです。 |
+| <img src="icon/obs.png" width="48" height="48" alt="OBS Studio" /> | ★★★☆☆ | YoutubeやTwitchで配信するぐらいまでならできます。 |
 ### 🚀 Featured Project
 
 #### [TermsChecker - 利用規約「危険条項」自動検知アプリ](https://github.com/Im-YuRam/TermsChecker)
