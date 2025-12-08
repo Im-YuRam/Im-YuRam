@@ -41,8 +41,8 @@
 | <img src="https://skillicons.dev/icons?i=ai" /> | ★★☆ | ベクター素材・アイコン作成 |
 | <img src="https://skillicons.dev/icons?i=pr" /> | ★★☆ | PR動画・紹介動画の編集 |
 | <img src="https://skillicons.dev/icons?i=blender" /> | ★☆☆ | 3Dモデリングの基礎 |
-| <img src="icon/maya.webp" width="48" height="48" alt="Maya" /> | ★☆☆ | 3Dアニメーション・モデリング |
-| <img src="icon/obs.jpeg" width="48" height="48" alt="OBS Studio" /> | ★★★ | 配信設定・録画環境構築 |
+| <img src="icon/maya.png" width="48" height="48" alt="Maya" /> | ★☆☆ | 3Dアニメーション・モデリング |
+| <img src="icon/obs.png" width="48" height="48" alt="OBS Studio" /> | ★★★ | 配信設定・録画環境構築 |
 ### 🚀 Featured Project
 
 #### [TermsChecker - 利用規約「危険条項」自動検知アプリ](https://github.com/Im-YuRam/TermsChecker)
