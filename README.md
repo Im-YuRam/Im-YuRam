@@ -54,7 +54,7 @@
 ### 🚀 Featured Project
 
 #### [TermsChecker - 利用規約「危険条項」自動検知アプリ](https://github.com/Im-YuRam/TermsChecker)
-<a href="https://github.com/Im-YuRam/TermsChecker"><img src="images/demo-top.png" width="400" alt="Termschecker"> 
+<a href="https://github.com/Im-YuRam/TermsChecker"><img src="icon/demo-top.png" width="400" alt="Termschecker"> 
 利用規約のURLを入力するだけで、Gemini APIが「ユーザーにとって不利な条項」や「注意点」を自動で要約・警告するWebアプリケーションです。
 
 * **課題解決:** 難解で長文な利用規約を、一般ユーザーでも一瞬で理解できるように可視化。
