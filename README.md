@@ -78,12 +78,10 @@ bakeru.incよりポートフォリオへの掲載許可をいただいていま�
 私が設計・実装を担当した主なセクションは以下の通りです。()
 - [特徴セクション](https://www.loni.jp/d#feature)
   - スムーススクロールとレスポンシブ対応の実装
-- [利用の流れセクション]([LPのURL#curriculum](https://www.loni.jp/d#flow))
+- [利用の流れセクション](https://www.loni.jp/d#flow)
   - インタラクティブなカードレイアウトの作成
-- [Q&Aフォーム]([LPのURL#contact](https://www.loni.jp/d#faq))
+- [Q&Aフォーム](https://www.loni.jp/d#faq)
   - バリデーション機能の実装
-#### [完全1on1デザインスクールLoni LP作成](https://www.loni.jp/d)
-<a href="https://www.loni.jp/d"><img src="icon/loni.png" width="400" alt="loni"> </a><br>
 
 ---
 
