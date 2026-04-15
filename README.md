@@ -60,8 +60,9 @@
 * **課題解決:** 難解で長文な利用規約を、一般ユーザーでも一瞬で理解できるように可視化。
 * **技術的な工夫:** 当初予定していたローカルLLM（Swallow-7b）の推論速度の課題に直面し、体験時間や精度を優先して高速なGemini 2.5 Flashモデルへピボットしました。APIキーの管理や、デモモードの実装なども行っています。
 
-#### [Loni-LP作成](https://www.loni.jp/d))
+#### [完全1on1デザインスクールLoni LP作成](https://www.loni.jp/d)
 <a href="https://www.loni.jp/d"><img src="icon/loni.png" width="400" alt="loni"> </a><br>
+
 ---
 
 
