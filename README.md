@@ -62,18 +62,20 @@
 
   
 #### [loni] ランディングページ制作
-共同制作（2名） | [サイトを見る](https://www.loni.jp/d)
-
+共同制作（2名） 
+<a href="https://www.loni.jp/d"><img src="icon/loni.png" width="400" alt="loni"> </a><br>
 loniデザインスクールの公式LPを、フロントエンドエンジニアとして共同で制作しました。
 bakeru.incよりポートフォリオへの掲載許可をいただいています。
 
 **🛠 使用技術**
-- HTML5 / CSS
-- JavaScript
-- (その他使用したフレームワークやライブラリがあれば)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **✒️ 担当箇所と実装詳細**
-私が設計・実装を担当した主なセクションは以下の通りです。
+私が設計・実装を担当した主なセクションは以下の通りです。()
 - [特徴セクション](https://www.loni.jp/d#feature)
   - スムーススクロールとレスポンシブ対応の実装
 - [利用の流れセクション]([LPのURL#curriculum](https://www.loni.jp/d#flow))
