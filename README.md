@@ -65,7 +65,7 @@
 *共同制作(2名)  
 <a href="https://www.loni.jp/d"><img src="icon/loni.png" width="400" alt="loni"> </a><br>
 loniデザインスクールの公式LPを、フロントエンドエンジニアとして共同で制作しました。  
-bakeru.incよりポートフォリオへの掲載許可をいただいています。
+ポートフォリオ等への掲載許可をいただいています。
 
 **🛠 使用技術**
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
