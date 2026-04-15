@@ -60,6 +60,26 @@
 * **課題解決:** 難解で長文な利用規約を、一般ユーザーでも一瞬で理解できるように可視化。
 * **技術的な工夫:** 当初予定していたローカルLLM（Swallow-7b）の推論速度の課題に直面し、体験時間や精度を優先して高速なGemini 2.5 Flashモデルへピボットしました。APIキーの管理や、デモモードの実装なども行っています。
 
+  
+#### [loni] ランディングページ制作
+共同制作（2名） | [サイトを見る](https://www.loni.jp/d)
+
+loniデザインスクールの公式LPを、フロントエンドエンジニアとして共同で制作しました。
+bakeru.incよりポートフォリオへの掲載許可をいただいています。
+
+**🛠 使用技術**
+- HTML5 / CSS
+- JavaScript
+- (その他使用したフレームワークやライブラリがあれば)
+
+**✒️ 担当箇所と実装詳細**
+私が設計・実装を担当した主なセクションは以下の通りです。
+- [特徴セクション](https://www.loni.jp/d#feature)
+  - スムーススクロールとレスポンシブ対応の実装
+- [利用の流れセクション]([LPのURL#curriculum](https://www.loni.jp/d#flow))
+  - インタラクティブなカードレイアウトの作成
+- [Q&Aフォーム]([LPのURL#contact](https://www.loni.jp/d#faq))
+  - バリデーション機能の実装
 #### [完全1on1デザインスクールLoni LP作成](https://www.loni.jp/d)
 <a href="https://www.loni.jp/d"><img src="icon/loni.png" width="400" alt="loni"> </a><br>
 
